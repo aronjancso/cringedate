@@ -1,4 +1,4 @@
-namespace CringeDate_API
+namespace CringeDate
 {
     public class Program
     {
